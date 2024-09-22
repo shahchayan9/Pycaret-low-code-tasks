@@ -12,3 +12,20 @@ https://colab.research.google.com/drive/1U-dSz7PY4-8-04kLADEc1O7ALVKj5cjl
 
 Multiclass Classification using Pycaret
 https://colab.research.google.com/drive/1qHcag1g1_afwt3Qqa3-97NrJkGiB2rOC#scrollTo=83252c09
+
+Gradio Demo-1
+https://colab.research.google.com/drive/1wJK3Ku8AvpyNKcmlGHGgwfzRPOrXO4zE#scrollTo=FUVTuy2WCzpp
+
+Gradio Demo-2
+https://colab.research.google.com/drive/1kaAKqGwlFwnV0IsRC7VsSllK4F3RumeV#scrollTo=x1TolU0mIwZs
+
+
+
+
+
+
+
+
+
+
+
