@@ -1,6 +1,5 @@
 # Pycaret-low-code-tasks
 
-D
 Association Rule Mining
 https://colab.research.google.com/drive/1mKzJ4Z9j9lK5xvhX1LOHeM5F6Pn8eVZ_#scrollTo=ToOtk_NFjnmZ
 
@@ -19,27 +18,11 @@ https://colab.research.google.com/drive/1wJK3Ku8AvpyNKcmlGHGgwfzRPOrXO4zE#scroll
 Gradio Demo-2
 https://colab.research.google.com/drive/1kaAKqGwlFwnV0IsRC7VsSllK4F3RumeV#scrollTo=x1TolU0mIwZs
 
+
 Regression
 https://colab.research.google.com/drive/10AAVDTmgPr2hIUoBLqBAXj3cjMb_Zqrg#scrollTo=IZxyw7CkSCpg
 
+Pycaret Clustering https://colab.research.google.com/drive/1agLysHIldmybK28KsczZPL6W5egstfmf#scrollTo=Ilewnl81WvFN
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+PyCaret Anomaly Detection
+https://colab.research.google.com/drive/1-92n1Xq8Yc5Ng8a43ignqfILKmBKviRs#scrollTo=uSlKZeD4eOA5
