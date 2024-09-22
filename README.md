@@ -19,6 +19,20 @@ https://colab.research.google.com/drive/1wJK3Ku8AvpyNKcmlGHGgwfzRPOrXO4zE#scroll
 Gradio Demo-2
 https://colab.research.google.com/drive/1kaAKqGwlFwnV0IsRC7VsSllK4F3RumeV#scrollTo=x1TolU0mIwZs
 
+Regression
+https://colab.research.google.com/drive/10AAVDTmgPr2hIUoBLqBAXj3cjMb_Zqrg#scrollTo=IZxyw7CkSCpg
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
