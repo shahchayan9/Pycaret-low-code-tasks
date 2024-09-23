@@ -30,3 +30,13 @@ https://colab.research.google.com/drive/1wJK3Ku8AvpyNKcmlGHGgwfzRPOrXO4zE#scroll
 
 Gradio Demo-2
 https://colab.research.google.com/drive/1kaAKqGwlFwnV0IsRC7VsSllK4F3RumeV#scrollTo=x1TolU0mIwZs
+
+
+# Getting Started
+To run the notebooks, open them in Google Colab and follow the instructions provided in each notebook.
+
+# Requirements
+Ensure you have the following installed:
+Python 3.x
+PyCaret
+Gradio
