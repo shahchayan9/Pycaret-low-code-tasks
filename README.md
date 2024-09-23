@@ -5,6 +5,15 @@ This project demonstrates the use of PyCaret for various machine learning tasks,
 # Video Explanation
 For a detailed walkthrough of the project, watch the explanation video - https://www.youtube.com/watch?v=uXBL2x3QzxI
 
+# Getting Started
+To run the notebooks, open them in Google Colab and follow the instructions provided in each notebook.
+
+# Requirements
+Ensure you have the following installed:
+Python 3.x
+PyCaret
+Gradio
+
 # All the collabs links
 
 Binary & Multiclass Classification - Level https://colab.research.google.com/drive/1qHcag1g1_afwt3Qqa3-97NrJkGiB2rOC#scrollTo=83252c09
@@ -30,13 +39,3 @@ https://colab.research.google.com/drive/1wJK3Ku8AvpyNKcmlGHGgwfzRPOrXO4zE#scroll
 
 Gradio Demo-2
 https://colab.research.google.com/drive/1kaAKqGwlFwnV0IsRC7VsSllK4F3RumeV#scrollTo=x1TolU0mIwZs
-
-
-# Getting Started
-To run the notebooks, open them in Google Colab and follow the instructions provided in each notebook.
-
-# Requirements
-Ensure you have the following installed:
-Python 3.x
-PyCaret
-Gradio
