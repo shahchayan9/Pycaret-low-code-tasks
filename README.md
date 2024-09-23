@@ -2,9 +2,8 @@
 
 This project demonstrates the use of PyCaret for various machine learning tasks, including classification, regression, clustering, anomaly detection, association rule mining, and time series forecasting. It also includes Gradio demos for interactive model deployment.
 
-# Pycaret-low-code-tasks
-
-Explanation Video link - https://www.youtube.com/watch?v=uXBL2x3QzxI
+# Video Explanation
+For a detailed walkthrough of the project, watch the explanation video - https://www.youtube.com/watch?v=uXBL2x3QzxI
 
 # All the collabs links
 
